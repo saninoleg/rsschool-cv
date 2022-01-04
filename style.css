@@ -31,7 +31,7 @@ a {
     height: 70px;
 }
 .nav {
-    background-color: rgb(75, 219, 212);
+    background-color: rgb(138, 162, 163, 0.774);
 }
 .nav-list {
     height: 70px;
@@ -64,14 +64,14 @@ main {
 .block-left {
     padding: 50px 50px;
     width: 40%;
-    background-color: rgb(107, 128, 221);
+    background-color: rgb(138, 162, 163, 0.774);
 }
 .foto {
     display: block;
     margin: 0 auto;
     width: 350px;
     height: 350px;
-    border: 5px solid rgb(10, 42, 184);
+    border: 5px solid rgb(138, 162, 163, 0.774);
 }
 .title {
     margin-top: 30px;
@@ -117,7 +117,8 @@ main {
 .block-right {
     padding: 30px 50px;
     width: 60%;
-    background-color: rgb(75, 219, 212);
+    background-color: rgba(138, 162, 163, 0.774);
+    ;
 }
 .education-text span {
     font-weight: 700;
@@ -172,7 +173,7 @@ main {
 pre {
     padding-left: 20px;
     font-family: monospace;
-    background-color: rgb(75, 219, 212);
+    background-color: rgba(138, 162, 163, 0.774);
 }
 .languages-list {
     position: relative;
